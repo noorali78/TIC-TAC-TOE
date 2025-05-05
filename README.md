@@ -25,7 +25,7 @@ A simple and fun web-based Tic Tac Toe game built using **HTML**, **CSS**, and *
 ## 🚀 Live Demo
 
 👉 [Click here to play] 
-_(Replace with your actual GitHub Pages URL)_
+https://noorali78.github.io/TIC-TAC-TOE/
 
 ---
 
